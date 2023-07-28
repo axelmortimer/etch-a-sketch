@@ -1,11 +1,15 @@
 .grid {
    display: flex;
    flex-wrap: wrap;
-   width: 720px;
-   height: 720px;
+   width: 600px;
+   height: 600px;
 }
 
 .block {
    box-sizing: border-box;
    border: 1px solid #000;
+}
+
+.hover {
+   background-color: #000;
 }
